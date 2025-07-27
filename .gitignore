@@ -1,1 +1,6 @@
 .jj
+temp/
+log/
+run*
+scratchpad.md
+config.toml
