@@ -2,7 +2,7 @@
 
 Self documenting nushell script to issue and renew TLS certs from Let's Encrypt 
 
-![[_assets/nucert-example.webp]]
+![Example](_assets/nucert-example.webp)
 
 ## Usage
 
